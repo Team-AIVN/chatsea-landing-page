@@ -16,8 +16,6 @@ export function SecuritySection() {
            {/* Decorative lines/text for "Encrypted" - simplified for CSS */}
            <div className="absolute top-10 right-[10%] md:right-[20%] text-white text-right hidden md:block">
               <div className="flex flex-col items-end gap-2">
-                 <span className="text-lg font-medium">Encrypted</span>
-                 <span className="text-lg font-medium">Encrypted</span>
                  <div className="w-[1px] h-32 bg-slate-600 mt-2"></div>
               </div>
            </div>
