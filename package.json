@@ -1,7 +1,7 @@
 {
     "name": "chatsea-landing-page",
     "version": "0.1.0",
-    "homepage": "",
+    "homepage": "https://team-aivn.github.io/chatsea-landing-page/",
     "private": true,
     "dependencies": {
         "@radix-ui/react-accordion": "^1.2.3",
